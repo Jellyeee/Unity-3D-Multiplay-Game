@@ -18,3 +18,16 @@ UserSettings/
 # OS
 .DS_Store
 Thumbs.db
+
+# Art source files
+*.psd
+*.blend
+*.max
+
+# Build / Executables
+*.exe
+*.apk
+*.aab
+*.app
+Build/
+Builds/
